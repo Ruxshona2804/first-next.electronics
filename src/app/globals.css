@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+.oranget {
+    color: rgba(250, 107, 28, 1);
+    ;
+}
+
+.orangebg {
+    background-color: rgba(250, 107, 28, 1);
+    ;
+}
+
+.container {
+    max-width: 1440px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.star {
+    color: rgba(253, 234, 177, 1)
+}
+
+.blue {
+    background: rgba(241, 246, 255, 1);
+
+}
